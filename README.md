@@ -15,6 +15,6 @@ Kesimpulan yang didapat berdasarkan pertanyaan bisnis yaitu:
 - Kesimpulan pertanyaan 4: Jumlah penyewa terbanyak berdasarkan tahun terjadi pada tahun 2012
 - Kesimpulan pertanyaan 5: Tren sewa sepeda tertinggi di tahun 2012 puncaknya pada bulan 9. Penurunan jumlah sewa sepeda terjadi pada akhir tahun
 - Kesimpulan pertanyaan 6: Persentase jenis penyewa yang teregistrasi paling banyak dibandingkan yang casual. Hal ini menunjukkan bahwa sebagian besar penyewa sudah teregistrasi dan mempunyai akun
--Kesimpulan pertanyaan 7: Jam sibuk terjadi pada siang hari yang rentangnya dari jam 11 - 15 siang dan puncaknya terjadi pada jam 5 sore. Hal ini disebabkan pada jam 5 sore merupakan waktu orang-orang pulang kerja atau sekolah dan sepeda menjadi salah satu pilihan untuk bermobilitas.
+- Kesimpulan pertanyaan 7: Jam sibuk terjadi pada siang hari yang rentangnya dari jam 11 - 15 siang dan puncaknya terjadi pada jam 5 sore. Hal ini disebabkan pada jam 5 sore merupakan waktu orang-orang pulang kerja atau sekolah dan sepeda menjadi salah satu pilihan untuk bermobilitas.
 
 Google Colaboratory https://colab.research.google.com/drive/1j6jI9Hf6kLgsUemcUgP9srZnWIgfvN9P?usp=sharing
